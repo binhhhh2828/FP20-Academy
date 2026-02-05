@@ -50,15 +50,26 @@ Mean score achieved by students within a given subject, period, or assessment ty
 
 ### Pass Rate
 Percentage of students who passed assessments within a defined scope.
+<img width="1634" height="750" alt="image" src="https://github.com/user-attachments/assets/11294efb-34d8-4d94-afa6-9df0c90993ec" />
 
 ---
 
 ## Key Insights
-- Student performance improved significantly after the 2023–2024 expansion, with higher average scores and more stable pass rates.
+- In 2025, increasing the number of students from 13 to nearly 50 led to a clear improvement in overall academic performance.
+- 2022
+<img width="2408" height="1356" alt="image" src="https://github.com/user-attachments/assets/248a2517-fcd7-4bb8-a39e-dd2a331c7c02" />
+- 2025
+<img width="2414" height="1349" alt="image" src="https://github.com/user-attachments/assets/38193abe-fa53-426f-9d63-c3ac3eab0565" />
+
 - Art & Design and English Language Art consistently ranked as top-performing subjects.
-- Performance gaps between subjects narrowed over time, indicating improved curriculum balance.
-- Practical Assessment, despite its high weight, consistently produced lower scores and acted as a performance bottleneck.
+<img width="1211" height="401" alt="image" src="https://github.com/user-attachments/assets/a4fa9f05-4a52-423a-84c6-1109e9f706cb" />
+
+- - Practical Assessment, despite its high weight, consistently produced lower scores and acted as a performance bottleneck.
+<img width="840" height="385" alt="image" src="https://github.com/user-attachments/assets/b9216679-67df-4fe6-96c6-17d518b5930e" />
+
+
 - Student performance peaked in Fall and declined toward Summer, highlighting the impact of academic scheduling and student motivation.
+<img width="446" height="543" alt="image" src="https://github.com/user-attachments/assets/1da4742a-53f9-468c-a9eb-1f75c07b68ce" />
 
 ---
 
@@ -78,5 +89,5 @@ Percentage of students who passed assessments within a defined scope.
 ---
 
 ## Author
-Lai Thuy Binh  
-IT Student | Data Analyst Intern Candidate
+**Lai Thuy Binh**  
+Data Analyst 
